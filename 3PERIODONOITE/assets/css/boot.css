@@ -1,0 +1,32 @@
+body{
+    margin: 150px;
+    background-color: rgba(98, 32, 156, 0.5);
+}
+
+.btn{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 0.8;
+}
+
+.card-title.h5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    color: #FFF;
+
+}
+.card-text.p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: strong;
+    
+}
+.bg-azul{
+    background-color: blue;
+}
+
+card-text2.p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: strong;
+    
+}
+
